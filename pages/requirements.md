@@ -34,12 +34,12 @@ To be successfully admitted to the program, you need to have a **Bachelors degre
 
 The outcome of this degree must be equivalent to or better than a German grade 2.5. You can find many conversion tools online, such as [this one](https://www.tum.de/en/studies/application/application-info-portal/grade-conversion-formula-for-grades-earned-outside-germany).
 
-Much of the assumed knowledge of the program relates to topics within Geosciences. In case you come from a different field, e.g. Biology-related, your knowledge will be assessed during the [admission interview]({{site.url}}{{site.baseurl}}/admission/process/#admission-interview). Please contact us via [email](mailto:pal-master@fau.de?subject=Question%20about%20application) if you have any queries related to your suitability for this program.
+Much of the assumed knowledge of the program relates to topics within Geosciences. In case you come from a different field, e.g. Biology-related, your knowledge will be assessed during the admission interview. Please contact us via [email](mailto:es-master@fau.de?subject=Question%20about%20application) if you have any queries related to your suitability for this program.
 
 
 ### Language skills
 
-The language of the program is English, therefore having good **English language skills** is a must. Unless you are a native speaker or have completed a previous degree through English, you are required to present certificate that you have at least B2 level CEFR (i.e. upper intermediate). More information on the comparability of internationally recognised language tests can be found on the main [FAU webpage](https://www.fau.eu/education/degree-programmes/international-degree-programmes/orientation-guide/).
+The language of the program is English, therefore having good **English language skills** is a must. Unless you are a native speaker or have completed a previous degree through English, you are required to present certificate that you have at least B2 level CEFR (i.e. upper intermediate). More information on the comparability of internationally recognised language tests can be found on the main [FAU website](https://www.fau.eu/education/degree-programmes/international-degree-programmes/orientation-guide/).
 
 German language skills are not required for the successful completion of the Master's program, although it can help make daily life easier. The university offers [free language courses](https://sz.fau.eu/department-german/courses-overview/students-of-all-disciplines/) to students and there are many other opportunities to learn German throughout the city and online.
 
@@ -58,8 +58,7 @@ Translations of certain documents are necessary if they are not already in Engli
 - **University entrance qualification** (i.e. school leaving certificate), issued by your secondary school if you have completed your secondary level education in Germany. International applicants will follow separate instructions, as outlined in our application guidance document.
 - **Transcript of records**, issued by your university, and accompanied by translated version(s) if necessary.
 - **Degree certificate** if available, and translated version(s) if necessary. In case that you are in your final year and have not yet completed your Bachelor's, this document can be uploaded once it becomes available to you.
-- **Proof of proficiency in English** (if applicable). Please see the step-by-step [application guide](https://palaeobiology.nat.fau.de/downloads/2024_online_application_guide.pdf) for further details.
-- **German language exemption document**. As the program is delivered through English and does not require any knowledge of German, we have prepared a simple exemption document, which you will find a link to in the step-by-step [application guide](https://palaeobiology.nat.fau.de/downloads/2024_online_application_guide.pdf).
+- **Proof of proficiency in English** (if applicable). {% comment %} Please see the step-by-step [application guide](https://palaeobiology.nat.fau.de/downloads/2024_online_application_guide.pdf) for further details. {% endcomment %} 
 - **Curriculum Vitae (CV)** (max. 2 pages, in English), outlining your qualifications and experience.
 - **Motivation letter** (max. 700 words, in English) outlining your motivations for applying for this program and how it aligns with your career aspirations.
 

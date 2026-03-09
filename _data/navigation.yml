@@ -4,8 +4,8 @@
   dropdown:
   - title: "The FAU and Erlangen"
     url: "/about/erlangen_and_the_FAU/"
-  - title: "Earth System Research"
-    url: "/about/our_science/"
+  # - title: "Earth System Research"
+  #   url: "/about/our_science/"
 
 - title: "The Program"
   url: "/program/outline/"
@@ -13,12 +13,12 @@
   dropdown:
   - title: "Outline"
     url: "/program/outline/"
-  - title: "Highlights"
-    url: "/program/highlights/"
+  # - title: "Highlights"
+  #   url: "/program/highlights/"
   - title: "Courses"
     url: "/program/courses/"
-  - title: "Career Perspectives"
-    url: "/program/perspectives/"
+  # - title: "Career Perspectives"
+  #   url: "/program/perspectives/"
 
 - title: "Admissions"
   url: "/admission/"

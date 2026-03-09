@@ -18,7 +18,7 @@ We understand that applying to a university program is usually not a straightfor
 <div class="row">
 
 <div class="large-4 medium-4 columns">
-<a href="pages/requirements/">
+<a href="requirements/">
 <div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/misc/degrees.jpg">
 Official requirements
@@ -26,8 +26,9 @@ Official requirements
 </a>
 </div>
 
+{% comment %}
 <div class="large-4 medium-4 columns">
-<a href="pages/financing.md">
+<a href="financing.md">
 <div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/misc/euros.jpg">
 Financing your studies in Germany
@@ -36,7 +37,7 @@ Financing your studies in Germany
 </div>
 
 <div class="large-4 medium-4 columns">
-<a href="pages/application_process.md">
+<a href="application_process.md">
 <div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/misc/application.png">
 The application process
@@ -44,6 +45,7 @@ The application process
 </a>
 </div>
 
+{% endcomment %}
 </div>
 
 Here you can find out whether you have the necessary qualifications and what documents you need to have to come and participate in our study program.
@@ -62,7 +64,7 @@ It might take a bit of time to browse through it, but there is plenty of informa
 <div class="large-4 medium-4 columns">
 <a href="https://www.gzn.nat.fau.eu/study/prospective-students/#collapse_0">
 <div>
-Information about the entire Geosciences master
+Information about other masters programs at the GZN
 <img src="{{ site.url }}{{ site.baseurl }}/images/logos/GeoZentrum.svg" height="150">
 </div>
 </a>

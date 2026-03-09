@@ -27,8 +27,14 @@ breadcrumb: true
 
 <div class="medium-12 large-12 columns" markdown="1">
 
+{% comment %}
+
 The program is divided into 4 semesters, each equating to an expected average of [30 ECTS](https://education.ec.europa.eu/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system). In the first 3 semesters, students take both prescribed and elective courses, and the final (4<sup>th</sup>) semester is dedicated to the [Masters thesis]({%link pages/highlights.md%}#master-thesis). The courses are organized into two main themes: [Foundational Interdisciplinary Modules]() and [Earth System modules](). Courses include lectures, seminars and practicals on a variety of core topics. Most courses take place during the main teaching semesters, but some are held as whole-day block courses to make the work more focused.
 
+{% endcomment %}
+
+
+The program is divided into 4 semesters, each equating to an expected average of [30 ECTS](https://education.ec.europa.eu/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system). In the first 3 semesters, students take both prescribed and elective courses, and the final (4<sup>th</sup>) semester is dedicated to the Masters thesis. The courses are organized into two main themes: Foundational Interdisciplinary Modules and Earth System modules. Courses include lectures, seminars and practicals on a variety of core topics. Most courses take place during the main teaching semesters, but some are held as whole-day block courses to make the work more focused.
 For a broader overview of the program, see the [program outline]({{site.baseurl }}/program/outline/).
 
 ### Overview of courses  
@@ -43,6 +49,7 @@ The following table illustrates the distribution of coursework over the four sem
 
 </div>
 
+{% comment %}
 
 <div markdown="1">
 
@@ -277,7 +284,9 @@ onmouseout="this.setAttribute('style', 'transform:translateY(0.0em);box-shadow: 
 
 
 <p><a class="button tiny radius" href="{{site.baseurl}}/program/perspectives/"> Career perspectives ›</a></p>
+{% endcomment %}
 
 <script>
 imageMapResize();
 </script>
+
