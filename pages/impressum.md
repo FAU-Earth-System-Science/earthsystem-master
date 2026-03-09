@@ -12,14 +12,12 @@ breadcrumb: true
 
 ### Website owner
 
-Prof. Dr. Wolfgang Kießling
+Prof. Dr. Rachel Warnock 
 
 Loewenichstraße 28  
-91052 Erlangen
+91054 Erlangen
 
-Phone: 09131 85-22622  
-Fax: 09131 85-22690  
-Email: wolfgang.kiessling@fau.de  
+Email: rachel.warnock@fau.de  
 
 ### Legal form and representation
 
