@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://fau-paleo.github.io/esde/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://FAU-Earth-System-Science.github.io/earthsystem-master/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://fau-paleo.github.io/esde/assets/js/modernizr.min.js"></script>
+	<script src="https://FAU-Earth-System-Science.github.io/earthsystem-master/assets/js/modernizr.min.js"></script>
 
 	
 
@@ -26,13 +26,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://fau-paleo.github.io/esde/assets/xslt/atom.xslt">
+	<link rel="canonical" href="https://FAU-Earth-System-Science.github.io/earthsystem-master/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="Friedrich-Alexander-Universität Erlangen-Nürnberg, GeoZentrum Nordbayern, Schlossgarten 5 91054 Erlangen">
-	<meta property="og:url" content="https://fau-paleo.github.io/esde/assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://FAU-Earth-System-Science.github.io/earthsystem-master/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="FAU ESDE MSc">
@@ -47,37 +47,37 @@
 	<meta name="twitter:creator" content="PalaeoFAU">
 	<meta name="twitter:title" content="Atom Feed (Styled)">
 	<meta name="twitter:description" content="International Master's Earth System Dynamics and Evolution, FAU Erlangen-Nürnberg">
-	<meta name="twitter:image" content="https://fau-paleo.github.io/esde/twitter_card.png">
+	<meta name="twitter:image" content="https://FAU-Earth-System-Science.github.io/earthsystem-master/twitter_card.png">
 	
 
-	<link type="text/plain" rel="author" href="https://fau-paleo.github.io/esde/humans.txt">
+	<link type="text/plain" rel="author" href="https://FAU-Earth-System-Science.github.io/earthsystem-master/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://fau-paleo.github.io/esde/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://fau-paleo.github.io/esde/assets/img/android-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/android-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://fau-paleo.github.io/esde/assets/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/apple-touch-icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://fau-paleo.github.io/esde/assets/img/apple-icon-152x152.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/apple-icon-152x152.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://fau-paleo.github.io/esde/assets/img/apple-icon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/apple-icon-144x144.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://fau-paleo.github.io/esde/assets/img/apple-icon-120x120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/apple-icon-120x120.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://fau-paleo.github.io/esde/assets/img/apple-icon-114x114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/apple-icon-114x114.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://fau-paleo.github.io/esde/assets/img/apple-icon-76x76.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/apple-icon-76x76.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://fau-paleo.github.io/esde/assets/img/apple-icon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/apple-icon-72x72.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://fau-paleo.github.io/esde/assets/img/apple-touch-icon.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/apple-touch-icon.png">	
 
-	<meta name="msapplication-TileImage" content="https://fau-paleo.github.io/esde/assets/img/ms-icon-144x144.png">
+	<meta name="msapplication-TileImage" content="https://fau-earth-system-science.github.io/earthsystem-master/assets/img/ms-icon-144x144.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -96,8 +96,8 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-			<a  href="https://fau-paleo.github.io/esde/" style="border-radius:3%/6%;padding-left:10px"><img src="https://fau-paleo.github.io/esde/assets/img/icon.png" style="height:50px" id="homeimg"></a>
-			<!-- <a class="show-for-medium-only" href="https://fau-paleo.github.io/esde/" style="border-radius:3%/6%"><img src="https://fau-paleo.github.io/esde/assets/img/icon.png" style="height:50px"></a> -->
+			<a  href="https://FAU-Earth-System-Science.github.io/earthsystem-master/" style="border-radius:3%/6%;padding-left:10px"><img src="https://FAU-Earth-System-Science.github.io/earthsystem-master/assets/img/icon.png" style="height:50px" id="homeimg"></a>
+			<!-- <a class="show-for-medium-only" href="https://FAU-Earth-System-Science.github.io/earthsystem-master/" style="border-radius:3%/6%"><img src="https://FAU-Earth-System-Science.github.io/earthsystem-master/assets/img/icon.png" style="height:50px"></a> -->
 
  
 
@@ -111,11 +111,11 @@
 		
 		<!--
 		<li><a href="https://www.nat.fau.eu/">
-		  <img src="/esde/images/logos/FAU_NatFak.svg" alt="Faculty of sciences" style="height:45px">
+		  <img src="/earthsystem-master/images/logos/FAU_NatFak.svg" alt="Faculty of sciences" style="height:45px">
 		</a>
 		</li>
 		<li><a href="https://www.gzn.nat.fau.de/">
-			<img src="/esde/images/logos/GeoZentrum.svg" style="height:45px">
+			<img src="/earthsystem-master/images/logos/GeoZentrum.svg" style="height:45px">
 		 </a>
 		</li> -->
         
@@ -155,14 +155,14 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://fau-paleo.github.io/esde/about/erlangen_and_the_FAU/" style="border-top-left-radius:5%;border-top-right-radius:5%">About</a>
+                <a  href="https://FAU-Earth-System-Science.github.io/earthsystem-master/about/erlangen_and_the_FAU/" style="border-top-left-radius:5%;border-top-right-radius:5%">About</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://fau-paleo.github.io/esde/about/erlangen_and_the_FAU/">The FAU and Erlangen</a></li>
+                      <li><a  href="https://FAU-Earth-System-Science.github.io/earthsystem-master/about/erlangen_and_the_FAU/">The FAU and Erlangen</a></li>
                     
                   </ul>
 
@@ -182,19 +182,19 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://fau-paleo.github.io/esde/program/outline/" style="border-top-left-radius:5%;border-top-right-radius:5%">The Program</a>
+                <a  href="https://FAU-Earth-System-Science.github.io/earthsystem-master/program/outline/" style="border-top-left-radius:5%;border-top-right-radius:5%">The Program</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://fau-paleo.github.io/esde/program/outline/">Outline</a></li>
+                      <li><a  href="https://FAU-Earth-System-Science.github.io/earthsystem-master/program/outline/">Outline</a></li>
                     
 
                       
 
-                      <li><a  href="https://fau-paleo.github.io/esde/program/courses/">Courses</a></li>
+                      <li><a  href="https://FAU-Earth-System-Science.github.io/earthsystem-master/program/courses/">Courses</a></li>
                     
                   </ul>
 
@@ -214,14 +214,14 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://fau-paleo.github.io/esde/admission/" style="border-top-left-radius:5%;border-top-right-radius:5%">Admissions</a>
+                <a  href="https://FAU-Earth-System-Science.github.io/earthsystem-master/admission/" style="border-top-left-radius:5%;border-top-right-radius:5%">Admissions</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://fau-paleo.github.io/esde/admission/requirements/">Requirements</a></li>
+                      <li><a  href="https://FAU-Earth-System-Science.github.io/earthsystem-master/admission/requirements/">Requirements</a></li>
                     
                   </ul>
 
@@ -240,8 +240,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://fau-paleo.github.io/esde/" title="FAU ESDE MSc – Master's in Earth System Dynamics and Evolution">
-				<img src="https://fau-paleo.github.io/esde/assets/img/esde_banner.png" alt="FAU ESDE MSc – Master's in Earth System Dynamics and Evolution">
+			<a id="logo" href="https://fau-earth-system-science.github.io/earthsystem-master/" title="FAU ESDE MSc – Master's in Earth System Dynamics and Evolution">
+				<img src="https://FAU-Earth-System-Science.github.io/earthsystem-master/assets/img/esde_banner.png" alt="FAU ESDE MSc – Master's in Earth System Dynamics and Evolution">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -331,7 +331,7 @@
       <div id="footer">
 		<div class="row">
 		  <div class="large-3 medium-3 small-12 columns" style="float:left;margin-top:12px">
-		  <img src="/esde/images/logos/FAU_black.svg" alt="Faculty of sciences" style="height:55px">
+		  <img src="/earthsystem-master/images/logos/FAU_black.svg" alt="Faculty of sciences" style="height:55px">
 		  </div>
 		  <div class="large-3 medium-3 small-12 columns" style="float:left">
 			<p style="margin-bottom:0px">Friedrich-Alexander-Universität</p>
@@ -341,11 +341,11 @@
 		  </div>
 		  <div class="large-6 medium-6 small-12 columns" style="text-a:right">
 			  <ul style="list-style-type:none">
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/imprint/">Imprint</a></li>
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/privacy/">Privacy</a></li>
-				<!-- <li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/accessibility/">Accessibility</a></li> -->
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/contacts/">Contacts</a></li>
-				<!-- <li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/downloads/">Downloads</a></li> -->
+				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-Earth-System-Science.github.io/earthsystem-master/imprint/">Imprint</a></li>
+				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-Earth-System-Science.github.io/earthsystem-master/privacy/">Privacy</a></li>
+				<!-- <li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-Earth-System-Science.github.io/earthsystem-master/accessibility/">Accessibility</a></li> -->
+				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-Earth-System-Science.github.io/earthsystem-master/contacts/">Contacts</a></li>
+				<!-- <li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-Earth-System-Science.github.io/earthsystem-master/downloads/">Downloads</a></li> -->
 			</ul>
 		  </div>
 		</div><!-- /.row -->
@@ -355,7 +355,7 @@
 		
 
 
-<script src="https://fau-paleo.github.io/esde/assets/js/javascript.min.js"></script>
+<script src="https://FAU-Earth-System-Science.github.io/earthsystem-master/assets/js/javascript.min.js"></script>
 
 
 
