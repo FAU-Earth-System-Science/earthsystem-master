@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'FAU ESDE MSc.'
+title: 'FAU ESDE MSc'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Master's in Earth System Dynamics and Evolution"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Friedrich-Alexander-Universität Erlangen-Nürnberg,
+description: 'Friedrich-Alexander-Universität Erlangen-Nürnberg, 
 GeoZentrum Nordbayern,
 Schlossgarten 5
 91054 Erlangen'
@@ -27,8 +27,13 @@ credits:
 author: kocsis
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-url: 'https://earthsystem-master.nat.fau.eu'
-baseurl: ''
+#
+# url: 'https://fau-paleo.github.io'
+# baseurl: '/webpage'
+
+url: 'https://fau-paleo.github.io'
+baseurl: '/esde'
+destination: _gh-pages
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
