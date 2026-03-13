@@ -31,13 +31,13 @@ author: kocsis
 # url: 'https://fau-paleo.github.io'
 # baseurl: '/webpage'
 
-url: 'https://fau-paleo.github.io'
-baseurl: '/esde'
+url: 'https://FAU-Earth-System-Science.github.io'
+baseurl: '/earthsystem-master'
 destination: _gh-pages
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/fau-paleo/esde
+improve_content: https://github.com/FAU-Earth-System-Science/earthsystem-master
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
