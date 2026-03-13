@@ -20,7 +20,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="Friedrich-Alexander-Universität Erlangen-Nürnberg, GeoZentrum Nordbayern, Loewenichstr. 28 91054 Erlangen">
+	<meta name="description" content="Friedrich-Alexander-Universität Erlangen-Nürnberg, GeoZentrum Nordbayern, Schlossgarten 5 91054 Erlangen">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -31,7 +31,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="Friedrich-Alexander-Universität Erlangen-Nürnberg, GeoZentrum Nordbayern, Loewenichstr. 28 91054 Erlangen">
+	<meta property="og:description" content="Friedrich-Alexander-Universität Erlangen-Nürnberg, GeoZentrum Nordbayern, Schlossgarten 5 91054 Erlangen">
 	<meta property="og:url" content="https://fau-paleo.github.io/esde/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -164,11 +164,6 @@
 
                       <li><a  href="https://fau-paleo.github.io/esde/about/erlangen_and_the_FAU/">The FAU and Erlangen</a></li>
                     
-
-                      
-
-                      <li><a  href="https://fau-paleo.github.io/esde/about/our_science/">Earth System Research</a></li>
-                    
                   </ul>
 
               </li>
@@ -199,17 +194,7 @@
 
                       
 
-                      <li><a  href="https://fau-paleo.github.io/esde/program/highlights/">Highlights</a></li>
-                    
-
-                      
-
                       <li><a  href="https://fau-paleo.github.io/esde/program/courses/">Courses</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://fau-paleo.github.io/esde/program/perspectives/">Career Perspectives</a></li>
                     
                   </ul>
 
@@ -255,8 +240,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://fau-paleo.github.io/esde/" title="FAU ESDE MSc – Master's in Evolution of System Dynamics">
-				<img src="https://fau-paleo.github.io/esde/assets/img/esde_banner.png" alt="FAU ESDE MSc – Master's in Evolution of System Dynamics">
+			<a id="logo" href="https://fau-paleo.github.io/esde/" title="FAU ESDE MSc – Master's in Earth System Dynamics and Evolution">
+				<img src="https://fau-paleo.github.io/esde/assets/img/esde_banner.png" alt="FAU ESDE MSc – Master's in Earth System Dynamics and Evolution">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -351,17 +336,16 @@
 		  <div class="large-3 medium-3 small-12 columns" style="float:left">
 			<p style="margin-bottom:0px">Friedrich-Alexander-Universität</p>
 			<p style="margin-bottom:0px">GeoZentrum Nordbayern</p>
-			<p style="margin-bottom:0px">Lehrstuhl für Paläoumwelt</p>
-			<p style="margin-bottom:0px">Loewenichstr. 28</p>
+			<p style="margin-bottom:0px">Schlossgarten 5</p>
 			<p style="margin-bottom:0px">91054 Erlangen</p>
 		  </div>
 		  <div class="large-6 medium-6 small-12 columns" style="text-a:right">
 			  <ul style="list-style-type:none">
 				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/imprint/">Imprint</a></li>
 				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/privacy/">Privacy</a></li>
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/accessibility/">Accessibility</a></li>
+				<!-- <li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/accessibility/">Accessibility</a></li> -->
 				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/contacts/">Contacts</a></li>
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/downloads/">Downloads</a></li>
+				<!-- <li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://fau-paleo.github.io/esde/downloads/">Downloads</a></li> -->
 			</ul>
 		  </div>
 		</div><!-- /.row -->
