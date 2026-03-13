@@ -40,7 +40,9 @@ breadcrumb: true
 homepage: true
 ---
 
+
 <br>
+
 
 <div class="row">
 <div class="large-6 columns" markdown="1" style="padding-top:1rem">
@@ -130,6 +132,9 @@ For further inquiries, contact: <i><span style="color:#0c778d">es-master@fau.de<
 <div class="medium-6 large-6 columns">
 
 <div markdown="1"  style="padding-top:1.5rem">
+
+{% include alert info='Applications will open on April 15 2026! ' %}
+
 This 2-year program is based in the beautiful city of [Erlangen]({{site.url}}{{site.baseurl}}/about/erlangen_and_the_FAU/#the-city-of-erlangen) in Bavaria. The program combines compulsory modules that establish a comprehensive understanding of the atmosphere, biosphere, geosphere, and hydrosphere, with elective courses that allow students to pursue advanced, research-oriented specializations. Inter- and transdisciplinary competencies are fostered through dedicated modules in data science, and science communication, as well as through collaborative and project-based learning. An understanding of the social dimensions of Earth system science is developed through dedicated humanities modules. Practical experience is gained through an internship and independent research, culminating in the development of a thesis that integrates perspectives across Earth systems. This program currently has <a href="{{site.url}}{{site.baseurl}}/admission/financing/" style="color:red">no tuition fees</a> for students of any nationality.
 
 
@@ -146,6 +151,9 @@ This 2-year program is based in the beautiful city of [Erlangen]({{site.url}}{{s
 </div>
 
 {%endcomment%}
+
+{% include alert note='The Earth System Dynamics and Evolution MSc. program is funded by a project supported by the [Elite Network of Bavaria](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/elite-graduate-programs/overview-of-elite-graduate-programs). We are currently looking for **6 post-doctoral** scientists to participate in the project. Click [here](https://fau-earth-system-science.github.io/index.html) to read about the project and available positions.' %}
+
 * * *
 
 
@@ -172,4 +180,4 @@ This 2-year program is based in the beautiful city of [Erlangen]({{site.url}}{{s
 </div>
 
 
-{% include alert info='Applications will open on April 15 2026. ' %}
+
