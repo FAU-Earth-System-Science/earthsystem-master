@@ -49,8 +49,7 @@ German language skills are not required for the successful completion of the Mas
 * * *
 
 ## Necessary documents
-{% assign checklist=site.data.downloads.info | where: 'ref', 'checklist' %}
-Before applying to the Master's program, you will need to have access to the documents listed below. Please also see FAU's central [checklist]({{checklist[0].remote}}) for applying to any Master's program at the university.
+Before applying to the Master's program, you will need to have access to the documents listed below. Please also see FAU's central [page](https://www.fau.eu/studying/international-students/application-and-enrollment-for-international-applicants/applying-for-a-masters-degree-program-as-an-international-student/) for applying to any Master's program at the university.
 
 Translations of certain documents are necessary if they are not already in English, German or French.
 
