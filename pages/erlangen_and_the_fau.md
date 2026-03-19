@@ -163,5 +163,6 @@ Erlangen is very well connected to the rest of Germany and beyond. Nuremberg <a 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
-
+{% comment %}
 <p><a class="button tiny radius" href="{{site.baseurl}}/about/our_science/">Our Science ›</a></p>
+{% endcomment %}
