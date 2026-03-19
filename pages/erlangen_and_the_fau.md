@@ -74,13 +74,10 @@ The [Faculty of Natural Sciences](https://nat.fau.eu) is organized into five dep
 
 <div class="large-8 medium-6 small-12 columns" markdown="1">
 
-<span class="moreee"> About the GeoZentrum as an institution</span>
 
-The GeoZentrum organizes the majority of courses related to the master program. 
+The GeoZentrum Nordbayern is a research oriented institute, comprising eleven working groups, that focus on foundational and applied aspects of geoscience. The environment is highly interdisciplinary and we have three internationally recognized research priorities: crustal dynamics, paleo-environments, and applied geosciences. The GeoZentrum organizes the majority of courses related to the master program.
 
-The main building of the GeoZentrum has a very central location, in the Gardens of the University Castle (in the [*Schloßgarten*](https://www.google.com/maps/place/GeoCenter+Northern+Bavaria/@49.5971029,11.0034406,1018m/data=!3m2!1e3!4b1!4m5!3m4!1s0x47a1f8de1f650649:0x5cf3eaa61a07ee7c!8m2!3d49.5970903!4d11.0056338)). Most geosphere and hydrosphere-related courses take place in this building.
-
-<span class="moreee"> MORE TEXT. Other buildings that people need to be aware of?</span>
+The main building of the GeoZentrum has a very central location, in the Gardens of the University Castle (in the [*Schloßgarten*](https://karte.fau.de/api/v1/iframe/marker/49.59838240416653,11.007388830184937/zoom/16#16/49.5984/11.0074)). Most geosphere- and hydrosphere-related courses take place in this building or the building next door (*[Kollegienhaus](https://karte.fau.de/api/v1/iframe/marker/49.59731498374954,11.007077693939209/zoom/16#16/49.5973/11.0071)*).
 
 </div>
 </div>
@@ -89,7 +86,7 @@ The main building of the GeoZentrum has a very central location, in the Gardens 
 <div class="row">
 <div class="large-9 columns" markdown="1">
 
-For historic reasons, the [Paleontology (*Lehrstuhl für Paläoumwelt*)](https://www.gzn.nat.fau.eu/palaeontologie/) is somewhat separated physically from the rest of the GeoZentrum, and its buildings are spread out. The main Paleontology building (usually referred to as the *"Pal"*) is technically an old, three-storey villa, about ten minutes of walk away from the GeoZentrum, in  [Loewenichstr. 28](https://www.google.com/maps/place/Loewenichstra%C3%9Fe+28,+91054+Erlangen/@49.5980424,11.0136737,1021m/data=!3m2!1e3!4b1!4m5!3m4!1s0x47a1f91f303344db:0x64cb18650acc59a2!8m2!3d49.5980425!4d11.0181583). Some parts of the [palaeontology collection](https://sammlung.pal.uni-erlangen.de/GeoZentrum/sam_public_search.php) are also stored in the basement.
+For historic reasons, the [Paleontology (*Lehrstuhl für Paläoumwelt*)](https://www.gzn.nat.fau.eu/palaeontologie/) is somewhat separated physically from the rest of the GeoZentrum, and its buildings are spread out. The main Paleontology building (usually referred to as the *"Pal"*) is technically an old, three-storey villa, about ten minutes of walk away from the GeoZentrum, in  [Loewenichstr. 28](https://karte.fau.de/api/v1/iframe/marker/49.598048620488214,11.01816862821579/zoom/16#18/49.59803/11.01849). Some parts of the [palaeontology collection](https://sammlung.pal.uni-erlangen.de/GeoZentrum/sam_public_search.php) are also stored in the basement.
 </div>
 <div class="large-3 columns">
 <img src="{{site.url}}{{site.baseurl}}/images/places/pal_garden.jpg">
@@ -97,8 +94,6 @@ For historic reasons, the [Paleontology (*Lehrstuhl für Paläoumwelt*)](https:/
 </div>
 </div>
 
-
-The GeoZentrum organizes another other master programs...
 
 
 * * *
@@ -108,15 +103,13 @@ The GeoZentrum organizes another other master programs...
 ### The Institute of Geography
 </div>
 <div class="columns large-3 medium-3 small-6 instdiv">
-<a class="instlink" href="https://www.geographie.nat.fau.de/en/"><img src="{{site.url}}{{site.baseurl}}/images/logos/geography-small.png" style="height:5rem"></a>
+<a class="instlink" href="https://www.geographie.nat.fau.de/en/"><img src="{{site.url}}{{site.baseurl}}/images/logos/geography-small.png" style="height:5rem;padding-bottom:10px"></a>
 </div>
 
 </div>
 
-Members of the [Institute of Geography](https://www.geographie.nat.fau.de/en/) organize atmosphere-related courses
+The Department of Geography is another research oriented institute, comprising twelve working groups, that focus on physical and cultural geography. Within physical geography the research priorities are climate research, environmental studies, and geoinformatics. Members of the Institute of Geography organize atmosphere-related courses. The Institute of Geography is located just outside Erlangen (*[Tennenlohe](https://karte.fau.de/api/v1/iframe/marker/49.54426224756815,11.025080680847168/zoom/16#16/49.5443/11.0251)*) and is accessible by public transport. 
 
-<span class="moreee">Here should be some paragraphs of text about the geography with at least one nice image. Some bits </span>
-<span class="moreee">Where is the building, how to get there. What kind of courses would be there. What kind of activities would students be engaged there? </span>
 
 * * * 
 
@@ -125,15 +118,15 @@ Members of the [Institute of Geography](https://www.geographie.nat.fau.de/en/) o
 
 ### Science Technology and Gender Studies
 
-<span class="moreee">Here should be some paragraphs of text about the STGS with at least one nice image. Some bits </span>
-<span class="moreee">Where are the offices, how to get there. What kind of activities would students be engaged there? </span>
 
 </div>
 <div class="columns large-3 medium-3 small-6 instdiv">
-<a class="instlink" href="https://www.stgs.fau.de/"><img src="{{site.url}}{{site.baseurl}}/images/logos/fau-stgs-logo.png" style="height:5rem"></a>
+<a class="instlink" href="https://www.stgs.fau.de/"><img src="{{site.url}}{{site.baseurl}}/images/logos/fau-stgs-logo.png" style="height:5rem;padding-bottom:10px"></a>
 </div>
 
 </div>
+
+The [Chair of Science, Technology and Gender Studies](https://www.stgs.fau.de/) belongs to the Faculty of Humanities, Social Sciences, and Theology at FAU and develops tools to help us comprehend the impact of science, technology and medicine on humans and the environment. Research topics include gender science studies, nuclear history, and science diplomacy. One of the team’s objectives is to create a platform for training, research, and international engagement, linking Earth system science with diplomacy, policy processes, and equitable global partnerships. Members of the Chair organize humanities-related courses. The Institute is located in the center of Erlangen (in *[Werner-von-Siemens-Straße](https://karte.fau.de/api/v1/iframe/marker/49.591918416074385,11.014131903648376/zoom/16#16/49.5919/11.0141)*). 
 
 * * * 
 
@@ -143,15 +136,13 @@ Members of the [Institute of Geography](https://www.geographie.nat.fau.de/en/) o
 ### BayCEER <i>(University of Bayreuth)</i>
 </div>
 <div class="columns large-3 medium-3 small-6 instdiv">
-<a class="instlink" href="https://www.bayceer.uni-bayreuth.de/bayceer/index.php?lang=en"><img src="{{site.url}}{{site.baseurl}}/images/logos/bayceer_top_de.png" style="height:4rem"></a>
+<a class="instlink" href="https://www.bayceer.uni-bayreuth.de/bayceer/index.php?lang=en"><img src="{{site.url}}{{site.baseurl}}/images/logos/bayceer_top_de.png" style="height:4rem;padding-bottom:10px"></a>
 </div>
 
 </div>
- 
 
-Together with the Paleontology our colleagues at the University of Bayreuth, in particular, the [Bayreuth Center of Ecology and Environmental Research](https://www.bayceer.uni-bayreuth.de/bayceer/en/mitarbeiter/bayceer/ag.php) contribute to biosphere-related courses.
+The [Bayreuth Center of Ecology and Environmental Research](https://www.bayceer.uni-bayreuth.de/index.php?lang=en) (BayCEER) is based at the University of Bayreuth and is composed of 30 working groups in the biosciences and geosciences from across the university. Their research seeks to address the major ecological challenges of our time: global change and climate change, the loss of biodiversity and ecosystems, and the sustainable use of natural resources. Together with staff at Paleontology Institute, our colleagues at BayCEER contribute to biosphere-related courses. BayCEER is based in the town of [Bayreuth](https://karte.fau.de/#14/49.9427/11.5904) (approximately 2 hours by train from Erlangen), but core courses taught by members of BayCEER are based in Erlangen. 
 
-<span class="moreee">Maybe something descriptive about the institution?</span>
 
 * * *
 
