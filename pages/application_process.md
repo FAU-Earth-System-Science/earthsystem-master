@@ -20,7 +20,7 @@ On this page, you will find more information about how to apply to our Masters p
 </div>
 
 <div class="panel radius" markdown="1">
-**The full application process is divided into 3 steps:**
+**The full application process is divided into 2 steps:**
 {: #toc }
 *  TOC
 {:toc}
@@ -28,9 +28,11 @@ On this page, you will find more information about how to apply to our Masters p
 
 
 
+{% comment %}
 <a href = "{{site.url}}{{site.baseurl}}/admission/now/" style="text-align:center">
 {% include alert alert='Apply now for the 2024/2025 academic year! <strong>Details ›</strong>' %}
 </a>
+{% endcomment %}
 </div>
 
 
@@ -55,30 +57,14 @@ On this page, you will find more information about how to apply to our Masters p
 
 * * *
 
-## Step 1: Get in touch with us!
-
-Before beginning your application, please write us a short [email](mailto:pal-master@fau.de?subject=Question%20about%20application) to introduce yourself and let us know that you intend to submit an application. From here, we will be able to track your application and answer any queries you might have about the online application.
-
-<div class="panel radius" markdown="1">
-##### When contacting us, please include:
-{:.no_toc}
-- Your full name
-- Your nationality and country of residence (so we can assist with any visa queries)
-- Your general academic background (especially the subject of your Bachelor's studies)
-</div>
-
-
-
-* * *
-
-## Step 2: Online application via [Campo](https://www.campo.fau.de/)
+## Step 1: Online application via [Campo](https://www.campo.fau.de/)
 
 
 <div class="row">
 <div class="medium-8 large-10 columns" markdown="1">
-The formal application process starts on the [Campo portal](https://campo.fau.de). Before proceeding with this step, please ensure that you meet the [academic admissions criteria](https://palaeobiology.nat.fau.de/admission/requirements/) and have acquired the required documents (see below).
+The formal application process starts on the [Campo portal](https://campo.fau.de). Before proceeding with this step, please ensure that you meet the [academic admissions criteria]({{site.url}}{{site.baseurl}}/admission/requirements/) and have acquired the required documents (see below).
 
-To help with your application we have prepared a detailed stepwise guide. In this guide, you will see the process divided into two parts: *Part A* describes how to register for a Campo account, and *Part B* describes the full online application process via Campo. Please follow all steps carefully and [email](mailto:pal-master@fau.de?subject=Question%20about%20application) us if you have any queries. At the end of this process, you should receive an email confirming that your application has been submitted.
+To help with your application we have prepared a detailed stepwise guide. In this guide, you will see the process divided into two parts: *Part A* describes how to register for a Campo account, and *Part B* describes the full online application process via Campo. Please follow all steps carefully and [email](mailto:es-master@fau.de?subject=Question%20about%20application) us if you have any queries. At the end of this process, you should receive an email confirming that your application has been submitted.
 
 
 
@@ -95,9 +81,9 @@ Translations of certain documents are necessary if they are not already in Engli
 - **Transcript of records**, issued by your university, and accompanied by translated version(s) if necessary.
 - **Degree certificate** if available, and translated version(s) if necessary. In case that you are in your final year and have not yet completed your Bachelor's, this document can be uploaded once it becomes available to you.
 - **Proof of proficiency in English** (if applicable). Please see the step-by-step [application guide](https://palaeobiology.nat.fau.de/downloads/2024_online_application_guide.pdf) for further details.
-- **German language exemption document**. As the program is delivered through English and does not require any knowledge of German, we have prepared a simple exemption document, which you will find a link to in the step-by-step [application guide](https://palaeobiology.nat.fau.de/downloads/2024_online_application_guide.pdf).
 - **Curriculum Vitae (CV)** (max. 2 pages, in English), outlining your qualifications and experience.
 - **Motivation letter** (max. 700 words, in English) outlining your motivations for applying for this program and how it aligns with your career aspirations.
+- **Details of prior programming and/or data analysis experience** (max. 300 words). This can include a list of relevant courses and skills gained in those courses, or examples of project related work.
 </div>
 
 </div>
@@ -120,7 +106,7 @@ style="border-radius:10%;border:1px solid #ddd">
 </div>
 * * *
 
-## Step 3: Online interview
+## Step 2: Online interview
 
 Once your application has been processed and you are eligible to be admitted, you will be invited to an interview. All details will be communicated to you via email. Applicants who have completed a Bachelors (BSc) in Geosciences and who have achieved a grade that translates to a German grade 2.5 or higher may not need to participate in an interview.
 
@@ -141,12 +127,5 @@ Applicants will be notified of the outcome of their application by mid-August. F
 
 
 </div>
-
-<div class="panel radius" markdown="1">
-
-If you are coming from a [Group 1]({{site.url}}{{site.baseurl}}/admission/now/#1-applicants-from-slow-visa-countries-group-1) country, we advise that you begin your application for a German visa as soon as you have been invited to interview. This is due to some embassies recently experiencing high demand in applications.
-
-</div>
-
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
