@@ -73,7 +73,7 @@ To help with your application we have prepared a detailed stepwise guide. In thi
 
 <div class="panel radius" markdown="1">
 
-Translations of certain documents are necessary if they are not already in English, German or French. The stepwise guide contains further information, and for further details, please see the [checklist prepared by FAU](https://www.fau.de/files/2019/12/Checklist-international.pdf).
+Translations of certain documents are necessary if they are not already in English, German or French. The stepwise guide contains further information, and for further details, please see the [FAU main website](https://www.fau.eu/studying/international-students/application-and-enrollment-for-international-applicants/applying-for-a-masters-degree-program-as-an-international-student/).
 
 ##### Required documents:
 {:.no_toc}
