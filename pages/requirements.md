@@ -74,7 +74,7 @@ At the application stage, scanned or photocopied versions of these documents are
 
 Students arriving from outside of the EU will require a visa to study in Germany. We recommend beginning your visa application as soon as possible. Many German embassies are currently experiencing long delays.
 
-{% include alert warning=' Please note that if you are a non-EU student, you <strong>must present proof of financing for one full year before you can be issued a visa</strong>. Most international students use a “blocked account” (*Sperrkonto*) to provide this evidence. The [Federal Foreign Office](https://www.auswaertiges-amt.de/en/sperrkonto/388600) requires students to block €10,332 in their *Sperrkonto*, from which a monthly sum of €861 is disbursed to the student for their living expenses. More information can be found on the Federal Foreign Office website, and we encourage you to check with your German Mission Abroad to get the most up to date information. ' %}
+{% include alert warning=' Please note that if you are a non-EU student, you <strong>must present proof of financing for one full year before you can be issued a visa</strong>. Most international students use a “blocked account” (*Sperrkonto*) to provide this evidence. The [Federal Foreign Office](https://www.auswaertiges-amt.de/en/sperrkonto/388600) requires students to block €11,904 in their *Sperrkonto*, from which a monthly sum of €861 is disbursed to the student for their living expenses. More information can be found on the Federal Foreign Office website, and we encourage you to check with your German Mission Abroad to get the most up to date information. ' %}
 
 
 </div>

@@ -152,8 +152,11 @@ This 2-year program is based in the beautiful city of [Erlangen]({{site.url}}{{s
 
 {%endcomment%}
 
+
+{% comment %}
 {% include alert note='The Earth System Dynamics and Evolution MSc. program is funded by a project supported by the [Elite Network of Bavaria](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/elite-graduate-programs/overview-of-elite-graduate-programs). We are currently looking for **6 post-doctoral** scientists to participate in the project. Click [here](https://fau-earth-system-science.github.io/index.html) to read about the project and available positions.' %}
 
+{%endcomment%}
 * * *
 
 
