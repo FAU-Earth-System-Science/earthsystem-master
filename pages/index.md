@@ -83,11 +83,7 @@ A beautiful result of Earth system interactions: the Great Barrier Reef in Austr
 </tr>
 <tr>
 	<td><strong>Tuition fee: </strong></td>
-	<td style="color:red"><strong>None</strong></td>
-</tr>
-<tr>
-	<td><strong>Tuition fee: </strong></td>
-	<td>2000€/Semester</td>
+	<td>€2000/Semester<span>*</span> or €0</td>
 </tr>
 <tr>
 	<td><strong>Application start: </strong></td>
@@ -113,7 +109,7 @@ A beautiful result of Earth system interactions: the Great Barrier Reef in Austr
 </tr>
 {%endcomment%}
 </table>
-<sup><strong>*</strong>Only for applicants coming from countries outside of the EU (otherwise €0)</sup>
+<sup><strong>*</strong>Application and tuition fees apply only to applicants coming from countries outside of the EU (otherwise €0).</sup>
 {%comment%}
 <div >
 	<i><strong>If you come from a slow-visa country, please apply as soon as possible!</strong>	
