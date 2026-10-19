@@ -25,9 +25,9 @@ breadcrumb: true
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-Even though there are no tuition fees for the International Master's program at FAU, there are multiple opportunities for students to support themselves during their stay in Germany, either through scholarships and/or part-time jobs.
+For students coming from EU countries there are are no tuition fees for the International Master's program at FAU. [From 2027](https://www.fau.eu/studying/international-students/application-and-enrollment-for-international-applicants/tuition-fees-for-students-from-non-eu-states/), those coming from outside the EU have to pay €2000 for every registered semester in this program. There are multiple opportunities for students to support themselves during their stay in Germany, either through scholarships and/or part-time jobs.
 
-#### Note for Non-EU students
+#### Another note for Non-EU students
 It is important to note that visas for students coming from outside of the EU have [financial requirements]({% link pages/requirements.md%}#visa-requirements-non-eu-applicants).
 
 
